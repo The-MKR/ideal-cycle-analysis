@@ -1,5 +1,5 @@
 # ideal-cycle-analysis
-Analysis the three Heat Engine Cycles (i.e. Otto, Diesel and Dual Cycle), using MATLAB, providing Work Output, Heat Absorbed and Efficiency of the cycle and also plotting P-V Diagram of the Cycles.
+Analyze the three Heat Engine Cycles (i.e. Otto, Diesel and Dual Cycle), using MATLAB, providing Work Output, Heat Absorbed and Efficiency of the cycle and also plotting P-V Diagram of the Cycles.
 
 ##Feature
 -Menu system to choose the cycle
