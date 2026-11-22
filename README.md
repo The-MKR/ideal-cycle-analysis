@@ -4,21 +4,21 @@ Analysis the three Heat Engine Cycles (i.e. Otto, Diesel and Dual Cycle), using 
 ##Feature
 -Menu system to choose the cycle
 -Gives Work done, Heat Absorbed, and Efficiency of the Cycle
--Plot's PV diagram of the Cycle too
+-PV diagram for each Cycle
 -Default air Cp Cv already in code.(Cp=1.005, Cv=0.718)
 
 ##How to run
--Open the .m file in MATLAB and run
+-Open the ideal_heatengine_cycle.m file in MATLAB and run
 -Input the Values
 
 ##Inputs
 -Suction Pressure(kPa) and Suction Temperature(K)
--Peak Temperature only for Otto Cyce
+-Peak Temperature only for Otto Cycle
 -Compression Ratio
 -Cutoff Ratio for Diesel and Dual Cycle
 -Pressure Ratio for Dual Cycle
 
-#Assumption
+#Assumptions
 -Ideal Gas working fluid
 -Constant specific heats
 -Reversible processes, no losses
